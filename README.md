@@ -114,20 +114,16 @@ Access the Project Report at `Documents/G-13 UG Project Report.pdf`.
 Feel free to raise an issue if you face any problems while implementing the modules. If you have any questions or run into problems during understanding of our project, please reach out to us through mail. We would be happy to share as much as possible.
 </p> 
 
-Email ID: 
-[farmbot.svnit@gmail.com](mailto:farmbot.svnit@gmail.com)
 
 ## Project Team
 Project Guide:\
 Dr. Anand Darji,\
-Head & Associate Professor,\
-ECED, SVNIT.
+Head ECED \
 
 Development Team:\
-[Dhruv Patel](https://github.com/Dhruv2012 "https://github.com/Dhruv2012")(U16EC053, SVNIT)\
-[Meet Gandhi](https://github.com/mEET126 "https://github.com/mEET126")(U16EC056, SVNIT)\
-[Shankaranarayanan H.](https://github.com/shankar59 "https://github.com/shankar59") (U16EC074,SVNIT)
+[Dhruv Patel](https://github.com/Dhruv2012 "https://github.com/Dhruv2012")\
+[Meet Gandhi](https://github.com/mEET126 "https://github.com/mEET126")\
+[Shankaranarayanan H.](https://github.com/shankar59 "https://github.com/shankar59") \
+[B.Sai Krishna](https://github.com/bsai-krishna "https://github.com/bsai-krishna") 
 
 
-Special Thanks To:
-**Mr. Mahesh Birajdar(U16ME084),SVNIT** and [*Team DRISHTI*](https://github.com/DRISHTI-SVNIT) for helping us in solidwork designing and manufacturing of AGRIBOT.
