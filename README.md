@@ -10,7 +10,7 @@ help to offer better and nutrients rich yield involving less man-power than the 
 agriculture. This project can also be extended to design robot various other applications involved
 in farming like ploughing, harvesting, etc. in turn making agriculture more autonomous and
 providing better yields which in turn will impact on the country’s GDP and lesser farmer suicide
-rates.It is a <b>UG project</b> under guidance of <b>TEQIP-3</b> and <b>ECE Department</b> at <b>SVNIT</b>.
+rates.
 
 </p>     
 <p><img src="Documents/readme-images/AGRIBOT.jpg" width="45%"/><img src="Documents/readme-images/AGRIBOT_solidworks.JPG" width="55%"/></p>
